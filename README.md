@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">Working as Software-Developer at KFintech  </h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif">
 
 - 🌱 I’m currently learning different technologies *At CDAC Mumbai*
 
-- 🤝 I’m looking for *Software-Developer Jobs*
 
 - 📫 You can reach me at *ask.kathe@gmail.com*
 
